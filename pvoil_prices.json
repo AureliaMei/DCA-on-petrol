@@ -1,0 +1,6701 @@
+{
+    "26-02-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20150,
+            "change": "+1000"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19820,
+            "change": "+880"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19520,
+            "change": "+890"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19270,
+            "change": "+750"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19570,
+            "change": "+700"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19460,
+            "change": "+850"
+        }
+    ],
+    "20-02-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19150,
+            "change": "-140"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18940,
+            "change": "-130"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18630,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18520,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18870,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18610,
+            "change": "+100"
+        }
+    ],
+    "12-02-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19290,
+            "change": "+410"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19070,
+            "change": "+370"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18830,
+            "change": "+400"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18460,
+            "change": "+10"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18810,
+            "change": "+10"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18510,
+            "change": "+120"
+        }
+    ],
+    "05-02-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18880,
+            "change": "+40"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18700,
+            "change": "-10"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18430,
+            "change": "+100"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18450,
+            "change": "+280"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18800,
+            "change": "+130"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18390,
+            "change": "+220"
+        }
+    ],
+    "29-01-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18840,
+            "change": "+210"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18710,
+            "change": "+190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18330,
+            "change": "+50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18170,
+            "change": "+470"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18670,
+            "change": "+470"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18170,
+            "change": "+220"
+        }
+    ],
+    "22-01-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18630,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18520,
+            "change": "-70"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18280,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17700,
+            "change": "+420"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18200,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17950,
+            "change": "+260"
+        }
+    ],
+    "15-01-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18710,
+            "change": "+150"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18590,
+            "change": "+130"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18370,
+            "change": "+140"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17280,
+            "change": "+220"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17880,
+            "change": "+220"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17690,
+            "change": "+140"
+        }
+    ],
+    "08-01-2026": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18560,
+            "change": "-350"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18460,
+            "change": "-340"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18230,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17060,
+            "change": "-190"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17660,
+            "change": "-290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17550,
+            "change": "-140"
+        }
+    ],
+    "31-12-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18910,
+            "change": "-90"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18800,
+            "change": "-70"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18430,
+            "change": "-280"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17250,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17950,
+            "change": "+200"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17690,
+            "change": "-10"
+        }
+    ],
+    "25-12-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19000,
+            "change": "-620"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 18870,
+            "change": "-540"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18710,
+            "change": "-520"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17250,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17750,
+            "change": "-250"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17700,
+            "change": "-230"
+        }
+    ],
+    "18-12-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19620,
+            "change": "-460"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19410,
+            "change": "-410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19230,
+            "change": "-380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17470,
+            "change": "-680"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18000,
+            "change": "-710"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17930,
+            "change": "-710"
+        }
+    ],
+    "11-12-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20080,
+            "change": "-380"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19820,
+            "change": "-330"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19610,
+            "change": "-210"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18150,
+            "change": "-230"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18710,
+            "change": "-300"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18640,
+            "change": "-250"
+        }
+    ],
+    "04-12-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20460,
+            "change": "+460"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20150,
+            "change": "+500"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19820,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18380,
+            "change": "-420"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19010,
+            "change": "-480"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18890,
+            "change": "-580"
+        }
+    ],
+    "27-11-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20000,
+            "change": "-540"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19650,
+            "change": "-470"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19280,
+            "change": "-520"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18800,
+            "change": "-1020"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19490,
+            "change": "-1020"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19470,
+            "change": "-810"
+        }
+    ],
+    "20-11-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20540,
+            "change": "-30"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20120,
+            "change": "-30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19800,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19820,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 20510,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20280,
+            "change": "+350"
+        }
+    ],
+    "13-11-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20570,
+            "change": "+160"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20150,
+            "change": "+140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19840,
+            "change": "+160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19860,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 20550,
+            "change": "+610"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19930,
+            "change": "+540"
+        }
+    ],
+    "06-11-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20410,
+            "change": "-70"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20010,
+            "change": "-110"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19680,
+            "change": "-80"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19320,
+            "change": "+120"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19940,
+            "change": "+120"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19390,
+            "change": "+120"
+        }
+    ],
+    "30-10-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20480,
+            "change": "+760"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20120,
+            "change": "+670"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19760,
+            "change": "+710"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19200,
+            "change": "+1320"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19820,
+            "change": "+1320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19270,
+            "change": "+1160"
+        }
+    ],
+    "23-10-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19720,
+            "change": "-180"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19450,
+            "change": "-230"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19050,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17880,
+            "change": "-540"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18500,
+            "change": "-440"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18110,
+            "change": "-290"
+        }
+    ],
+    "16-10-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19900,
+            "change": "+180"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19680,
+            "change": "+180"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19220,
+            "change": "+90"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18420,
+            "change": "-180"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18940,
+            "change": "-190"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18400,
+            "change": "-30"
+        }
+    ],
+    "09-10-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19720,
+            "change": "-480"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19500,
+            "change": "-420"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19130,
+            "change": "-490"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18600,
+            "change": "-430"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19130,
+            "change": "-430"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18430,
+            "change": "-570"
+        }
+    ],
+    "02-10-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20200,
+            "change": "+40"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19920,
+            "change": "+90"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19620,
+            "change": "+10"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19030,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19560,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19000,
+            "change": "+380"
+        }
+    ],
+    "25-09-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20160,
+            "change": "-440"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19830,
+            "change": "-390"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19610,
+            "change": "-370"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18650,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19180,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18620,
+            "change": "+80"
+        }
+    ],
+    "18-09-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20600,
+            "change": "+200"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20220,
+            "change": "+180"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19980,
+            "change": "+230"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18700,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19230,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18540,
+            "change": "+180"
+        }
+    ],
+    "11-09-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20400,
+            "change": "-30"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20040,
+            "change": "-30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19750,
+            "change": "-100"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18640,
+            "change": "+170"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19170,
+            "change": "+140"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18360,
+            "change": "+50"
+        }
+    ],
+    "04-09-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20430,
+            "change": "+70"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20070,
+            "change": "-10"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19850,
+            "change": "+80"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18470,
+            "change": "+120"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19030,
+            "change": "+120"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18310,
+            "change": "+90"
+        }
+    ],
+    "28-08-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20360,
+            "change": "+270"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 20080,
+            "change": "+240"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19770,
+            "change": "+310"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18350,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18910,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18220,
+            "change": "+410"
+        }
+    ],
+    "21-08-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20090,
+            "change": "+210"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19840,
+            "change": "+180"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19460,
+            "change": "+110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17900,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18460,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17810,
+            "change": "-210"
+        }
+    ],
+    "14-08-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19880,
+            "change": "-190"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19660,
+            "change": "-170"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19350,
+            "change": "-250"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18070,
+            "change": "-730"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18630,
+            "change": "-570"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18020,
+            "change": "-640"
+        }
+    ],
+    "07-08-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20070,
+            "change": "+230"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19830,
+            "change": "+230"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19600,
+            "change": "+200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18800,
+            "change": "-260"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19200,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18660,
+            "change": "-50"
+        }
+    ],
+    "31-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19840,
+            "change": "+140"
+        },
+        {
+            "product": "Xăng E10 RON 95-III",
+            "price_vnd": 19600,
+            "change": "+19600"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19400,
+            "change": "+130"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19060,
+            "change": "-60"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19360,
+            "change": "-60"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18710,
+            "change": "+90"
+        }
+    ],
+    "24-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19700,
+            "change": "-220"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19270,
+            "change": "-210"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19120,
+            "change": "+330"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19420,
+            "change": "+330"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18620,
+            "change": "+200"
+        }
+    ],
+    "17-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19920,
+            "change": "-170"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19480,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18790,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19090,
+            "change": "-60"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18420,
+            "change": "+50"
+        }
+    ],
+    "10-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20090,
+            "change": "+190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19650,
+            "change": "+210"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18830,
+            "change": "+430"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19150,
+            "change": "+430"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18370,
+            "change": "+240"
+        }
+    ],
+    "03-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19900,
+            "change": "-1210"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19440,
+            "change": "-1090"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18400,
+            "change": "-940"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18720,
+            "change": "-980"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18130,
+            "change": "-930"
+        }
+    ],
+    "01-07-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21110,
+            "change": "-390"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20530,
+            "change": "-380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19340,
+            "change": "-360"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19700,
+            "change": "-360"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19060,
+            "change": "-350"
+        }
+    ],
+    "26-06-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21500,
+            "change": "+260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20910,
+            "change": "+280"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19700,
+            "change": "+550"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 20060,
+            "change": "+550"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19410,
+            "change": "+490"
+        }
+    ],
+    "19-06-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21240,
+            "change": "+1280"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20630,
+            "change": "+1170"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19150,
+            "change": "+1450"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19510,
+            "change": "+1450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18920,
+            "change": "+1410"
+        }
+    ],
+    "12-06-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19960,
+            "change": "+270"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19460,
+            "change": "+200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17700,
+            "change": "+280"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18060,
+            "change": "+90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17510,
+            "change": "+230"
+        }
+    ],
+    "05-06-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19690,
+            "change": "+130"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19260,
+            "change": "+70"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17420,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17970,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17280,
+            "change": "+180"
+        }
+    ],
+    "29-05-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19560,
+            "change": "+30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19190,
+            "change": "+70"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17130,
+            "change": "-270"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17680,
+            "change": "-270"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17100,
+            "change": "-210"
+        }
+    ],
+    "22-05-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19530,
+            "change": "-60"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19120,
+            "change": "-60"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17400,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17950,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17310,
+            "change": "+90"
+        }
+    ],
+    "15-05-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19590,
+            "change": "+420"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19180,
+            "change": "+410"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17220,
+            "change": "+420"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17770,
+            "change": "+340"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17220,
+            "change": "+280"
+        }
+    ],
+    "08-05-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19170,
+            "change": "-410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18770,
+            "change": "-380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16800,
+            "change": "-550"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17430,
+            "change": "-550"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16940,
+            "change": "-620"
+        }
+    ],
+    "05-05-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19580,
+            "change": "-50"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19150,
+            "change": "-80"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17350,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17980,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17560,
+            "change": "-150"
+        }
+    ],
+    "24-04-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19630,
+            "change": "+780"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19230,
+            "change": "+740"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17520,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18150,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17710,
+            "change": "+530"
+        }
+    ],
+    "17-04-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18850,
+            "change": "-350"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18490,
+            "change": "-390"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17030,
+            "change": "-210"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17660,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17180,
+            "change": "-230"
+        }
+    ],
+    "10-04-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19200,
+            "change": "-1710"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18880,
+            "change": "-1490"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17240,
+            "change": "-1230"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17880,
+            "change": "-1330"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17410,
+            "change": "-1320"
+        }
+    ],
+    "03-04-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20910,
+            "change": "+490"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20370,
+            "change": "+340"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18470,
+            "change": "+260"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19210,
+            "change": "+560"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18730,
+            "change": "+210"
+        }
+    ],
+    "27-03-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20420,
+            "change": "+340"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20030,
+            "change": "+340"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18210,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18650,
+            "change": "+270"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18520,
+            "change": "+410"
+        }
+    ],
+    "20-03-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20080,
+            "change": "+440"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19690,
+            "change": "+410"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17890,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18380,
+            "change": "+20"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18110,
+            "change": "+20"
+        }
+    ],
+    "13-03-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19640,
+            "change": "-760"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19280,
+            "change": "-680"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17890,
+            "change": "-440"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18360,
+            "change": "-310"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18090,
+            "change": "-480"
+        }
+    ],
+    "06-03-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20400,
+            "change": "-710"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19960,
+            "change": "-690"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18330,
+            "change": "-620"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18670,
+            "change": "-600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18570,
+            "change": "-760"
+        }
+    ],
+    "27-02-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21110,
+            "change": "-220"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20650,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18950,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19270,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19330,
+            "change": "-180"
+        }
+    ],
+    "20-02-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21330,
+            "change": "+260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20850,
+            "change": "+260"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19060,
+            "change": "-10"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19470,
+            "change": "+140"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19510,
+            "change": "+40"
+        }
+    ],
+    "13-02-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21070,
+            "change": "+150"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20590,
+            "change": "+150"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19070,
+            "change": "+20"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19330,
+            "change": "+140"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19470,
+            "change": "+60"
+        }
+    ],
+    "06-02-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20920,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20440,
+            "change": "+50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19050,
+            "change": "-190"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19190,
+            "change": "-230"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19410,
+            "change": "-20"
+        }
+    ],
+    "01-02-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21000,
+            "change": "-140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20390,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19240,
+            "change": "-950"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19420,
+            "change": "-1010"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19430,
+            "change": "-680"
+        }
+    ],
+    "23-01-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21140,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20590,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20190,
+            "change": "+410"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 20430,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20110,
+            "change": "+410"
+        }
+    ],
+    "16-01-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21220,
+            "change": "+210"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20750,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19780,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19980,
+            "change": "+470"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19700,
+            "change": "+460"
+        }
+    ],
+    "09-01-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21010,
+            "change": "+270"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20430,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19240,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19510,
+            "change": "+500"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19240,
+            "change": "+410"
+        }
+    ],
+    "02-01-2025": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20740,
+            "change": "+200"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20050,
+            "change": "+240"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18750,
+            "change": "+120"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19010,
+            "change": "+170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18830,
+            "change": "+130"
+        }
+    ],
+    "26-12-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20540,
+            "change": "-460"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19810,
+            "change": "-430"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18630,
+            "change": "-100"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18840,
+            "change": "-140"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18700,
+            "change": "-260"
+        }
+    ],
+    "19-12-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21000,
+            "change": "+410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20240,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18730,
+            "change": "+480"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18980,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18960,
+            "change": "+400"
+        }
+    ],
+    "12-12-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20590,
+            "change": "+30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19860,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18250,
+            "change": "-130"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18440,
+            "change": "-130"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18560,
+            "change": "-250"
+        }
+    ],
+    "05-12-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20560,
+            "change": "-290"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19860,
+            "change": "+20"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18380,
+            "change": "-390"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18570,
+            "change": "-360"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18810,
+            "change": "-330"
+        }
+    ],
+    "28-11-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20850,
+            "change": "+330"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19840,
+            "change": "+500"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18770,
+            "change": "+270"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18930,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19140,
+            "change": "+220"
+        }
+    ],
+    "21-11-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20520,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19340,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18500,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18610,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18920,
+            "change": "-60"
+        }
+    ],
+    "14-11-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20600,
+            "change": "-250"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19450,
+            "change": "-290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18570,
+            "change": "-340"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18660,
+            "change": "-460"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18980,
+            "change": "-310"
+        }
+    ],
+    "07-11-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20850,
+            "change": "+350"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19740,
+            "change": "+340"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18910,
+            "change": "+770"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 19120,
+            "change": "+760"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19290,
+            "change": "+460"
+        }
+    ],
+    "31-10-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20500,
+            "change": "-390"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19400,
+            "change": "-290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18140,
+            "change": "+90"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18360,
+            "change": "+50"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18830,
+            "change": "+260"
+        }
+    ],
+    "24-10-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20890,
+            "change": "-70"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19690,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18050,
+            "change": "-270"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18310,
+            "change": "-260"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18570,
+            "change": "-50"
+        }
+    ],
+    "17-10-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20960,
+            "change": "-100"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19730,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18320,
+            "change": "-180"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18570,
+            "change": "-30"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18620,
+            "change": "-170"
+        }
+    ],
+    "10-10-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21060,
+            "change": "+1260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19840,
+            "change": "+990"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18500,
+            "change": "+1100"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 18600,
+            "change": "+1090"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18790,
+            "change": "+1280"
+        }
+    ],
+    "03-10-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19800,
+            "change": "-710"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18850,
+            "change": "-770"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17400,
+            "change": "-100"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17510,
+            "change": "-340"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17510,
+            "change": "-360"
+        }
+    ],
+    "26-09-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20510,
+            "change": "+750"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19620,
+            "change": "+680"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17500,
+            "change": "+460"
+        },
+        {
+            "product": "Dầu DO 0,001S-V",
+            "price_vnd": 17850,
+            "change": "+17850"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17870,
+            "change": "+320"
+        }
+    ],
+    "19-09-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19760,
+            "change": "+130"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18940,
+            "change": "+50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17040,
+            "change": "-120"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17550,
+            "change": "-240"
+        }
+    ],
+    "12-09-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19630,
+            "change": "-1190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18890,
+            "change": "-1080"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17160,
+            "change": "-930"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17790,
+            "change": "-930"
+        }
+    ],
+    "05-09-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20820,
+            "change": "-280"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19970,
+            "change": "-360"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18090,
+            "change": "-380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18720,
+            "change": "-340"
+        }
+    ],
+    "29-08-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21100,
+            "change": "-210"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20330,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18470,
+            "change": "-300"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19060,
+            "change": "-80"
+        }
+    ],
+    "22-08-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21310,
+            "change": "-540"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20420,
+            "change": "-460"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18770,
+            "change": "-460"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19140,
+            "change": "-430"
+        }
+    ],
+    "15-08-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21850,
+            "change": "+180"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20880,
+            "change": "+170"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19230,
+            "change": "+90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19570,
+            "change": "+430"
+        }
+    ],
+    "08-08-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21670,
+            "change": "-930"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20710,
+            "change": "-900"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19140,
+            "change": "-730"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19140,
+            "change": "-950"
+        }
+    ],
+    "01-08-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22600,
+            "change": "-280"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21610,
+            "change": "-290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19870,
+            "change": "-320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20090,
+            "change": "-230"
+        }
+    ],
+    "25-07-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22880,
+            "change": "-290"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21900,
+            "change": "-270"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20190,
+            "change": "-310"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20320,
+            "change": "-340"
+        }
+    ],
+    "18-07-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23170,
+            "change": "-120"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22170,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20500,
+            "change": "-330"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20660,
+            "change": "-370"
+        }
+    ],
+    "11-07-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23290,
+            "change": "-260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22280,
+            "change": "-180"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20830,
+            "change": "-340"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21030,
+            "change": "-180"
+        }
+    ],
+    "04-07-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23550,
+            "change": "+540"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22460,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21170,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21210,
+            "change": "+600"
+        }
+    ],
+    "27-06-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23010,
+            "change": "+550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22010,
+            "change": "+510"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20680,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20610,
+            "change": "+260"
+        }
+    ],
+    "20-06-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22460,
+            "change": "+230"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21500,
+            "change": "+190"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20360,
+            "change": "+720"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20350,
+            "change": "+500"
+        }
+    ],
+    "13-06-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22230,
+            "change": "+260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21310,
+            "change": "+170"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19640,
+            "change": "+220"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19850,
+            "change": "+300"
+        }
+    ],
+    "06-06-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21970,
+            "change": "-540"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21140,
+            "change": "-610"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19420,
+            "change": "-320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19550,
+            "change": "-380"
+        }
+    ],
+    "30-05-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22510,
+            "change": "-700"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21750,
+            "change": "-520"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19740,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19930,
+            "change": "+30"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 17530,
+            "change": "+17530"
+        }
+    ],
+    "23-05-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23210,
+            "change": "+80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22270,
+            "change": "+160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19830,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19900,
+            "change": "0"
+        }
+    ],
+    "16-05-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23130,
+            "change": "-410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22110,
+            "change": "-510"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19870,
+            "change": "+30"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19900,
+            "change": "+200"
+        }
+    ],
+    "09-05-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23540,
+            "change": "-1410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22620,
+            "change": "-1290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19840,
+            "change": "-760"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19700,
+            "change": "-840"
+        }
+    ],
+    "02-05-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24950,
+            "change": "+40"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23910,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20600,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20540,
+            "change": "-140"
+        }
+    ],
+    "25-04-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24910,
+            "change": "-320"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23910,
+            "change": "-310"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20710,
+            "change": "-730"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20680,
+            "change": "-730"
+        }
+    ],
+    "17-04-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 25230,
+            "change": "+410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 24220,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21440,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21410,
+            "change": "-180"
+        }
+    ],
+    "11-04-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24820,
+            "change": "+20"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23840,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21610,
+            "change": "+630"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21590,
+            "change": "+580"
+        }
+    ],
+    "04-04-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24800,
+            "change": "-10"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23910,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20980,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21010,
+            "change": "+140"
+        }
+    ],
+    "28-03-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24810,
+            "change": "+530"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23620,
+            "change": "+410"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20690,
+            "change": "-320"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20870,
+            "change": "-390"
+        }
+    ],
+    "21-03-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24280,
+            "change": "+740"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23210,
+            "change": "+720"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21010,
+            "change": "+470"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21260,
+            "change": "+560"
+        }
+    ],
+    "14-03-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23540,
+            "change": "-10"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22490,
+            "change": "-20"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20540,
+            "change": "+70"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20700,
+            "change": "+100"
+        }
+    ],
+    "07-03-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23550,
+            "change": "-370"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22510,
+            "change": "-240"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20470,
+            "change": "-300"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20600,
+            "change": "-180"
+        }
+    ],
+    "29-02-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23920,
+            "change": "+330"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22750,
+            "change": "-840"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20770,
+            "change": "-140"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20780,
+            "change": "-140"
+        }
+    ],
+    "22-02-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23590,
+            "change": "-320"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23590,
+            "change": "+760"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20910,
+            "change": "-450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20920,
+            "change": "-300"
+        }
+    ],
+    "15-02-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23910,
+            "change": "+650"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22830,
+            "change": "+710"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21360,
+            "change": "+660"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21220,
+            "change": "+640"
+        }
+    ],
+    "08-02-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23260,
+            "change": "-900"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22120,
+            "change": "-790"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20700,
+            "change": "-290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20580,
+            "change": "-340"
+        }
+    ],
+    "01-02-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24160,
+            "change": "+760"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22910,
+            "change": "+740"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20990,
+            "change": "+620"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20920,
+            "change": "+380"
+        }
+    ],
+    "25-01-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23400,
+            "change": "+920"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22170,
+            "change": "+760"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20370,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20540,
+            "change": "+10"
+        }
+    ],
+    "18-01-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22480,
+            "change": "+550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21410,
+            "change": "+370"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20190,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20530,
+            "change": "+200"
+        }
+    ],
+    "11-01-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21930,
+            "change": "+20"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21040,
+            "change": "+40"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19700,
+            "change": "+340"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20330,
+            "change": "+380"
+        }
+    ],
+    "04-01-2024": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21910,
+            "change": "-230"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21000,
+            "change": "-180"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19360,
+            "change": "-420"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19950,
+            "change": "-500"
+        }
+    ],
+    "28-12-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22140,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21180,
+            "change": "-10"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19780,
+            "change": "+260"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20450,
+            "change": "-40"
+        }
+    ],
+    "21-12-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22140,
+            "change": "+740"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21190,
+            "change": "+680"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19520,
+            "change": "+510"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20490,
+            "change": "+530"
+        }
+    ],
+    "14-12-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21400,
+            "change": "-920"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20510,
+            "change": "-780"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19010,
+            "change": "-710"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19960,
+            "change": "-960"
+        }
+    ],
+    "07-12-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22320,
+            "change": "-670"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21290,
+            "change": "-500"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19720,
+            "change": "-470"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20920,
+            "change": "-190"
+        }
+    ],
+    "30-11-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22990,
+            "change": "-30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21790,
+            "change": "+100"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20190,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21110,
+            "change": "+170"
+        }
+    ],
+    "23-11-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23020,
+            "change": "-510"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21690,
+            "change": "-580"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20280,
+            "change": "-600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20940,
+            "change": "-570"
+        }
+    ],
+    "13-11-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23530,
+            "change": "-390"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22270,
+            "change": "-340"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20880,
+            "change": "-1060"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21510,
+            "change": "-790"
+        }
+    ],
+    "01-11-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23920,
+            "change": "+880"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22610,
+            "change": "+710"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21940,
+            "change": "-470"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22300,
+            "change": "-160"
+        }
+    ],
+    "11-10-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23040,
+            "change": "-1800"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21900,
+            "change": "-1600"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22410,
+            "change": "-1180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22460,
+            "change": "-1350"
+        }
+    ],
+    "02-10-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24840,
+            "change": "-900"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23500,
+            "change": "-690"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23590,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23810,
+            "change": "0"
+        }
+    ],
+    "21-09-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 25740,
+            "change": "+870"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 24190,
+            "change": "+720"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23590,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23810,
+            "change": "+630"
+        }
+    ],
+    "11-09-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24870,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23470,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23050,
+            "change": "+410"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23180,
+            "change": "+370"
+        }
+    ],
+    "05-09-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24870,
+            "change": "+270"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23470,
+            "change": "+140"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22640,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22810,
+            "change": "+510"
+        }
+    ],
+    "21-08-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24600,
+            "change": "+610"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23330,
+            "change": "+510"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22350,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22300,
+            "change": "+420"
+        }
+    ],
+    "11-08-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23990,
+            "change": "+30"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22820,
+            "change": "+30"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22420,
+            "change": "+1810"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21880,
+            "change": "+1610"
+        }
+    ],
+    "01-08-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23960,
+            "change": "+1170"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22790,
+            "change": "+1160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20610,
+            "change": "+1110"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20270,
+            "change": "+1090"
+        }
+    ],
+    "21-07-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22790,
+            "change": "+1300"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21630,
+            "change": "+1220"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19500,
+            "change": "+890"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19180,
+            "change": "+860"
+        }
+    ],
+    "11-07-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21490,
+            "change": "+70"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20410,
+            "change": "-60"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18610,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18320,
+            "change": "+400"
+        }
+    ],
+    "03-07-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21420,
+            "change": "-590"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20470,
+            "change": "-400"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18160,
+            "change": "-10"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17920,
+            "change": "-30"
+        }
+    ],
+    "21-06-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22010,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20870,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18170,
+            "change": "+150"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17950,
+            "change": "+130"
+        }
+    ],
+    "12-06-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22010,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20870,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18020,
+            "change": "+80"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17820,
+            "change": "+50"
+        }
+    ],
+    "01-06-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22010,
+            "change": "+520"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20870,
+            "change": "+390"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17940,
+            "change": "-10"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17770,
+            "change": "-190"
+        }
+    ],
+    "22-05-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21490,
+            "change": "+490"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20480,
+            "change": "+350"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17950,
+            "change": "+300"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17960,
+            "change": "-10"
+        }
+    ],
+    "11-05-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21000,
+            "change": "-1320"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20130,
+            "change": "-1300"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17650,
+            "change": "-600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17970,
+            "change": "-550"
+        }
+    ],
+    "04-05-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22320,
+            "change": "+22320"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21430,
+            "change": "+21430"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18250,
+            "change": "+18250"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18520,
+            "change": "+18520"
+        }
+    ],
+    "21-04-2023": [],
+    "11-04-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24240,
+            "change": "+1120"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23170,
+            "change": "+1090"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20140,
+            "change": "+710"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19730,
+            "change": "+700"
+        }
+    ],
+    "03-04-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23120,
+            "change": "+90"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22080,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19430,
+            "change": "+130"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19030,
+            "change": "-430"
+        }
+    ],
+    "21-03-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23030,
+            "change": "-780"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22020,
+            "change": "-780"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19300,
+            "change": "-1200"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19460,
+            "change": "-1250"
+        }
+    ],
+    "13-03-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23810,
+            "change": "+490"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22800,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20500,
+            "change": "+250"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20710,
+            "change": "+240"
+        }
+    ],
+    "01-03-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23320,
+            "change": "-120"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22420,
+            "change": "-120"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20250,
+            "change": "-550"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20470,
+            "change": "-370"
+        }
+    ],
+    "21-02-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23440,
+            "change": "-320"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22540,
+            "change": "-320"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20800,
+            "change": "-760"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 20840,
+            "change": "-750"
+        }
+    ],
+    "13-02-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23760,
+            "change": "+23760"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22860,
+            "change": "+22860"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21560,
+            "change": "+21560"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21590,
+            "change": "+21590"
+        }
+    ],
+    "30-01-2023": [],
+    "11-01-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22150,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21350,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21630,
+            "change": "-520"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21800,
+            "change": "-960"
+        }
+    ],
+    "03-01-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22150,
+            "change": "+350"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21350,
+            "change": "+330"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22150,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22760,
+            "change": "+600"
+        }
+    ],
+    "01-01-2023": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21800,
+            "change": "+1100"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21020,
+            "change": "+1050"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22150,
+            "change": "+550"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22160,
+            "change": "+330"
+        }
+    ],
+    "21-12-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20700,
+            "change": "-500"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19970,
+            "change": "-370"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21600,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21830,
+            "change": "-70"
+        }
+    ],
+    "12-12-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21200,
+            "change": "-1500"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20340,
+            "change": "-1330"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21670,
+            "change": "-1540"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21900,
+            "change": "-1660"
+        }
+    ],
+    "01-12-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22700,
+            "change": "-1080"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21670,
+            "change": "-1000"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23210,
+            "change": "-1590"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23560,
+            "change": "-1080"
+        }
+    ],
+    "21-11-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23780,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22670,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24800,
+            "change": "-180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24640,
+            "change": "-100"
+        }
+    ],
+    "11-11-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23860,
+            "change": "+1110"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22710,
+            "change": "+840"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24980,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24740,
+            "change": "+960"
+        }
+    ],
+    "01-11-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22750,
+            "change": "+410"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21870,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25070,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23780,
+            "change": "+120"
+        }
+    ],
+    "21-10-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22340,
+            "change": "+340"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21490,
+            "change": "+200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24780,
+            "change": "+600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23660,
+            "change": "+840"
+        }
+    ],
+    "11-10-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22000,
+            "change": "+560"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21290,
+            "change": "+560"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24180,
+            "change": "+1980"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22820,
+            "change": "+1140"
+        }
+    ],
+    "03-10-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21440,
+            "change": "-1140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20730,
+            "change": "-1050"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22200,
+            "change": "-330"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 21680,
+            "change": "-760"
+        }
+    ],
+    "21-09-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22580,
+            "change": "-630"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21780,
+            "change": "-450"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22530,
+            "change": "-1650"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22440,
+            "change": "-1970"
+        }
+    ],
+    "12-09-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23210,
+            "change": "-1020"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22230,
+            "change": "-1120"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24180,
+            "change": "-1000"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24410,
+            "change": "-1030"
+        }
+    ],
+    "05-09-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24230,
+            "change": "-430"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23350,
+            "change": "-370"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25180,
+            "change": "+1430"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 25440,
+            "change": "+1390"
+        }
+    ],
+    "22-08-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24660,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23720,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23750,
+            "change": "+850"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24050,
+            "change": "+730"
+        }
+    ],
+    "11-08-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24660,
+            "change": "-940"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23720,
+            "change": "-900"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 22900,
+            "change": "-1000"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23320,
+            "change": "-1210"
+        }
+    ],
+    "01-08-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 25600,
+            "change": "-470"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 24620,
+            "change": "-450"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23900,
+            "change": "-950"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24530,
+            "change": "-710"
+        }
+    ],
+    "21-07-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 26070,
+            "change": "-3600"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 25070,
+            "change": "-2710"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24850,
+            "change": "-1740"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 25240,
+            "change": "-1100"
+        }
+    ],
+    "11-07-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 29670,
+            "change": "-3090"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 27780,
+            "change": "-3110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 26590,
+            "change": "-3020"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 26340,
+            "change": "-2010"
+        }
+    ],
+    "01-07-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 32760,
+            "change": "-110"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 30890,
+            "change": "-410"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 29610,
+            "change": "-400"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 28350,
+            "change": "-430"
+        }
+    ],
+    "21-06-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 32870,
+            "change": "+500"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 31300,
+            "change": "+190"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 30010,
+            "change": "+990"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 28780,
+            "change": "+950"
+        }
+    ],
+    "13-06-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 32370,
+            "change": "+800"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 31110,
+            "change": "+880"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 29020,
+            "change": "+2630"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 27830,
+            "change": "+2490"
+        }
+    ],
+    "01-06-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 31570,
+            "change": "+920"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 30230,
+            "change": "+600"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 26390,
+            "change": "+840"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 25340,
+            "change": "+940"
+        }
+    ],
+    "23-05-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 30650,
+            "change": "+670"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 29630,
+            "change": "+680"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25550,
+            "change": "-1100"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 24400,
+            "change": "-760"
+        }
+    ],
+    "11-05-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 29980,
+            "change": "+1550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 28950,
+            "change": "+1490"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 26650,
+            "change": "+1120"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 25160,
+            "change": "+1340"
+        }
+    ],
+    "04-05-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 28430,
+            "change": "+440"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 27460,
+            "change": "+330"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25530,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23820,
+            "change": "0"
+        }
+    ],
+    "21-04-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 27990,
+            "change": "+680"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 27130,
+            "change": "+660"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25350,
+            "change": "+970"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23820,
+            "change": "+800"
+        }
+    ],
+    "12-04-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 27310,
+            "change": "-840"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 26470,
+            "change": "-830"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 24380,
+            "change": "-700"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23020,
+            "change": "-740"
+        }
+    ],
+    "01-04-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 28150,
+            "change": "-1040"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 27300,
+            "change": "-1030"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25080,
+            "change": "+1450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23760,
+            "change": "+1520"
+        }
+    ],
+    "21-03-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 29190,
+            "change": "-630"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 28330,
+            "change": "-650"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 23630,
+            "change": "-1630"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 22240,
+            "change": "-1670"
+        }
+    ],
+    "11-03-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 29820,
+            "change": "+2990"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 28980,
+            "change": "+2910"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 25260,
+            "change": "+3950"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 23910,
+            "change": "+3940"
+        }
+    ],
+    "01-03-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 26830,
+            "change": "+550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 26070,
+            "change": "+540"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 21310,
+            "change": "+510"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19970,
+            "change": "+470"
+        }
+    ],
+    "21-02-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 26280,
+            "change": "+960"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 25530,
+            "change": "+960"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 20800,
+            "change": "+940"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 19500,
+            "change": "+750"
+        }
+    ],
+    "11-02-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 25320,
+            "change": "+960"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 24570,
+            "change": "+980"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 19860,
+            "change": "+960"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 18750,
+            "change": "+960"
+        }
+    ],
+    "21-01-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24360,
+            "change": "+490"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23590,
+            "change": "+440"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18900,
+            "change": "+670"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17790,
+            "change": "+660"
+        }
+    ],
+    "11-01-2022": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23870,
+            "change": "+580"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23150,
+            "change": "+600"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18230,
+            "change": "+660"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17130,
+            "change": "+620"
+        }
+    ],
+    "25-12-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23290,
+            "change": "+490"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22550,
+            "change": "+470"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17570,
+            "change": "+240"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16510,
+            "change": "+190"
+        }
+    ],
+    "10-12-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22800,
+            "change": "-1100"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22080,
+            "change": "-830"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17330,
+            "change": "-1050"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16320,
+            "change": "-870"
+        }
+    ],
+    "25-11-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 23900,
+            "change": "-1090"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 22910,
+            "change": "-750"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18380,
+            "change": "-330"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17190,
+            "change": "-440"
+        }
+    ],
+    "10-11-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24990,
+            "change": "+660"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23660,
+            "change": "+550"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18710,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17630,
+            "change": "0"
+        }
+    ],
+    "26-10-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 24330,
+            "change": "+1460"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 23110,
+            "change": "+1430"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18710,
+            "change": "+1170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17630,
+            "change": "+1010"
+        }
+    ],
+    "11-10-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22870,
+            "change": "+930"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 21680,
+            "change": "+970"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17540,
+            "change": "+960"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16620,
+            "change": "+980"
+        }
+    ],
+    "25-09-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21940,
+            "change": "+550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20710,
+            "change": "+570"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16580,
+            "change": "+560"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15640,
+            "change": "+560"
+        }
+    ],
+    "10-09-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21390,
+            "change": "+260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20140,
+            "change": "+250"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16020,
+            "change": "+360"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15080,
+            "change": "+320"
+        }
+    ],
+    "26-08-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21130,
+            "change": "-550"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19890,
+            "change": "-600"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15660,
+            "change": "-510"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14760,
+            "change": "-410"
+        }
+    ],
+    "11-08-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21680,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20490,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16170,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15170,
+            "change": "-220"
+        }
+    ],
+    "27-07-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21680,
+            "change": "-100"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20490,
+            "change": "-120"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16370,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15390,
+            "change": "-110"
+        }
+    ],
+    "12-07-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21780,
+            "change": "+870"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20610,
+            "change": "+850"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16530,
+            "change": "+420"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15500,
+            "change": "+450"
+        }
+    ],
+    "26-06-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20910,
+            "change": "+750"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19760,
+            "change": "+720"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16110,
+            "change": "+670"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15050,
+            "change": "+640"
+        }
+    ],
+    "11-06-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20160,
+            "change": "+630"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19040,
+            "change": "+620"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15440,
+            "change": "+670"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14410,
+            "change": "+590"
+        }
+    ],
+    "27-05-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19530,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18420,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14770,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13820,
+            "change": "0"
+        }
+    ],
+    "12-05-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19530,
+            "change": "+370"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18420,
+            "change": "+440"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14770,
+            "change": "+450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13820,
+            "change": "+570"
+        }
+    ],
+    "27-04-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19160,
+            "change": "+190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17980,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14320,
+            "change": "+180"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13250,
+            "change": "+430"
+        }
+    ],
+    "12-04-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18970,
+            "change": "-70"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17800,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14140,
+            "change": "-100"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 12820,
+            "change": "-180"
+        }
+    ],
+    "27-03-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19040,
+            "change": "+160"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17850,
+            "change": "+130"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14240,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13000,
+            "change": "-170"
+        }
+    ],
+    "12-03-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18880,
+            "change": "+800"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17720,
+            "change": "+690"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14400,
+            "change": "+560"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13170,
+            "change": "+560"
+        }
+    ],
+    "25-02-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18080,
+            "change": "+810"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17030,
+            "change": "+730"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 13840,
+            "change": "+800"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 12610,
+            "change": "+710"
+        }
+    ],
+    "10-02-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17270,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16300,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 13040,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 11900,
+            "change": "0"
+        }
+    ],
+    "26-01-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17270,
+            "change": "+340"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16300,
+            "change": "+360"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 13040,
+            "change": "+400"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 11900,
+            "change": "+350"
+        }
+    ],
+    "11-01-2021": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 16930,
+            "change": "+460"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 15940,
+            "change": "+430"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12640,
+            "change": "+270"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 11550,
+            "change": "+370"
+        }
+    ],
+    "26-12-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 16470,
+            "change": "+470"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 15510,
+            "change": "+390"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12370,
+            "change": "+480"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 11180,
+            "change": "+410"
+        }
+    ],
+    "11-12-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 16000,
+            "change": "+650"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 15120,
+            "change": "+630"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11890,
+            "change": "+460"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10770,
+            "change": "+640"
+        }
+    ],
+    "26-11-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 15350,
+            "change": "+650"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14490,
+            "change": "+610"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11430,
+            "change": "+600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10130,
+            "change": "+570"
+        }
+    ],
+    "11-11-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14700,
+            "change": "-240"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 13880,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 10830,
+            "change": "-380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9560,
+            "change": "-150"
+        }
+    ],
+    "27-10-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14940,
+            "change": "-180"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14100,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11210,
+            "change": "+90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9710,
+            "change": "+120"
+        }
+    ],
+    "12-10-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 15120,
+            "change": "+140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14260,
+            "change": "+50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11120,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9590,
+            "change": "+150"
+        }
+    ],
+    "26-09-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14980,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14210,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11120,
+            "change": "-390"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9440,
+            "change": "-150"
+        }
+    ],
+    "11-09-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14980,
+            "change": "-130"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14260,
+            "change": "-140"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11510,
+            "change": "-450"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9590,
+            "change": "-530"
+        }
+    ],
+    "27-08-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 15110,
+            "change": "+190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14400,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11960,
+            "change": "-240"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10120,
+            "change": "-80"
+        }
+    ],
+    "12-08-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14920,
+            "change": "-50"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14400,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12200,
+            "change": "-190"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10200,
+            "change": "-70"
+        }
+    ],
+    "28-07-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14970,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14400,
+            "change": "+150"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12390,
+            "change": "+280"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10270,
+            "change": "+240"
+        }
+    ],
+    "13-07-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14970,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14250,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12110,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10030,
+            "change": "0"
+        }
+    ],
+    "27-06-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14970,
+            "change": "+890"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 14250,
+            "change": "+860"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 12110,
+            "change": "+600"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 10030,
+            "change": "+420"
+        }
+    ],
+    "12-06-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 14080,
+            "change": "+960"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 13390,
+            "change": "+990"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11510,
+            "change": "+770"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9610,
+            "change": "+860"
+        }
+    ],
+    "28-05-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 13120,
+            "change": "+890"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 12400,
+            "change": "+880"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 10740,
+            "change": "+890"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 8750,
+            "change": "+870"
+        }
+    ],
+    "13-05-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 12230,
+            "change": "+600"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 11520,
+            "change": "+580"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 9850,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 7880,
+            "change": "-80"
+        }
+    ],
+    "28-04-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 11630,
+            "change": "-300"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 10940,
+            "change": "-400"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 9940,
+            "change": "-880"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 7960,
+            "change": "-670"
+        }
+    ],
+    "13-04-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 11930,
+            "change": "-630"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 11340,
+            "change": "-610"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 10820,
+            "change": "-430"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 8630,
+            "change": "-510"
+        }
+    ],
+    "29-03-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 12560,
+            "change": "-4250"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 11950,
+            "change": "-4100"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 11250,
+            "change": "-1780"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 9140,
+            "change": "-2700"
+        }
+    ],
+    "15-03-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 16810,
+            "change": "-2310"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16050,
+            "change": "-2290"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 13030,
+            "change": "-1750"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 11840,
+            "change": "-1830"
+        }
+    ],
+    "29-02-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19120,
+            "change": "-260"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18340,
+            "change": "-160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14780,
+            "change": "-390"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13670,
+            "change": "-280"
+        }
+    ],
+    "14-02-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19380,
+            "change": "-740"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18500,
+            "change": "-760"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15170,
+            "change": "-960"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 13950,
+            "change": "-1110"
+        }
+    ],
+    "30-01-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20120,
+            "change": "-790"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19260,
+            "change": "-580"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16130,
+            "change": "-410"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15060,
+            "change": "-470"
+        }
+    ],
+    "15-01-2020": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20910,
+            "change": "-80"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19840,
+            "change": "-40"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16540,
+            "change": "-50"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15530,
+            "change": "-50"
+        }
+    ],
+    "31-12-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20990,
+            "change": "+110"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19880,
+            "change": "+160"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16590,
+            "change": "+530"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15580,
+            "change": "+570"
+        }
+    ],
+    "16-12-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20880,
+            "change": "-190"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19720,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16060,
+            "change": "+80"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15010,
+            "change": "+50"
+        }
+    ],
+    "30-11-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21070,
+            "change": "+280"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19810,
+            "change": "+310"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15980,
+            "change": "+20"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14960,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "15-11-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20790,
+            "change": "+350"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19500,
+            "change": "+250"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15960,
+            "change": "-90"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14960,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "31-10-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20440,
+            "change": "-350"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19250,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16050,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15130,
+            "change": "-120"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "16-10-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20790,
+            "change": "+20790"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19470,
+            "change": "+19470"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16220,
+            "change": "+16220"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15250,
+            "change": "+15250"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "01-10-2019": [],
+    "16-09-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20140,
+            "change": "-90"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19110,
+            "change": "-110"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16200,
+            "change": "-130"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15360,
+            "change": "+40"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "31-08-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20230,
+            "change": "-170"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19220,
+            "change": "-130"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16330,
+            "change": "-170"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15320,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "16-08-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20400,
+            "change": "-510"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19350,
+            "change": "-550"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16500,
+            "change": "-520"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15390,
+            "change": "-570"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "01-08-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20910,
+            "change": "+20910"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19900,
+            "change": "+19900"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17020,
+            "change": "+17020"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15960,
+            "change": "+15960"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "17-07-2019": [],
+    "02-07-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20510,
+            "change": "+380"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19650,
+            "change": "+420"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16940,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15930,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "17-06-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 20130,
+            "change": "-1080"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19230,
+            "change": "-980"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16650,
+            "change": "-740"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15610,
+            "change": "-610"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "01-06-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21210,
+            "change": "-380"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20210,
+            "change": "-270"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17390,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16220,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "17-05-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21590,
+            "change": "-600"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20480,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17610,
+            "change": "-80"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16420,
+            "change": "-200"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "02-05-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22190,
+            "change": "+960"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20680,
+            "change": "+980"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17690,
+            "change": "+310"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16620,
+            "change": "+360"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "17-04-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21230,
+            "change": "+21230"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19700,
+            "change": "+19700"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17380,
+            "change": "+17380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16260,
+            "change": "+16260"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "02-04-2019": [],
+    "18-03-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18540,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17210,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15860,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14880,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "02-03-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18540,
+            "change": "+940"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17210,
+            "change": "+940"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 15860,
+            "change": "+960"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14880,
+            "change": "+700"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "15-02-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17600,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16270,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14900,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14180,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "31-01-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17600,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16270,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14900,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14180,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "16-01-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17600,
+            "change": "0"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16270,
+            "change": "0"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14900,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14180,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        }
+    ],
+    "01-01-2019": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 17600,
+            "change": "-540"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16270,
+            "change": "-510"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 14900,
+            "change": "-1100"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 14180,
+            "change": "-820"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 17800,
+            "change": "-540"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 14950,
+            "change": "-1100"
+        }
+    ],
+    "21-12-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18140,
+            "change": "-310"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 16780,
+            "change": "-400"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16000,
+            "change": "-250"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15000,
+            "change": "-250"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 18340,
+            "change": "-310"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 16050,
+            "change": "-250"
+        }
+    ],
+    "06-12-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 18450,
+            "change": "-1520"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 17180,
+            "change": "-1440"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 16250,
+            "change": "-1380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 15250,
+            "change": "-990"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 18650,
+            "change": "-1520"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 16300,
+            "change": "-1380"
+        }
+    ],
+    "21-11-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 19970,
+            "change": "-1090"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 18620,
+            "change": "-980"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17630,
+            "change": "-910"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16240,
+            "change": "-840"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 20170,
+            "change": "-1090"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 17680,
+            "change": "-910"
+        }
+    ],
+    "06-11-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21060,
+            "change": "-1140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19600,
+            "change": "-1080"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18540,
+            "change": "-70"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17080,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 21260,
+            "change": "-1140"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 18590,
+            "change": "-70"
+        }
+    ],
+    "22-10-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22200,
+            "change": "-140"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20680,
+            "change": "-220"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18610,
+            "change": "0"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17080,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 22400,
+            "change": "-140"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 18660,
+            "change": "0"
+        }
+    ],
+    "06-10-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 22340,
+            "change": "+570"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20900,
+            "change": "+670"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18610,
+            "change": "+490"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 17080,
+            "change": "+400"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 22540,
+            "change": "+570"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 18660,
+            "change": "+490"
+        }
+    ],
+    "21-09-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21770,
+            "change": "+300"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 20230,
+            "change": "+320"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18120,
+            "change": "+60"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16680,
+            "change": "+130"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 21970,
+            "change": "+300"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 18170,
+            "change": "+60"
+        }
+    ],
+    "06-09-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21470,
+            "change": "+300"
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19910,
+            "change": "+300"
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 18060,
+            "change": "+380"
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16550,
+            "change": "+290"
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": "0"
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 21670,
+            "change": "+300"
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 18110,
+            "change": "+380"
+        }
+    ],
+    "22-08-2018": [
+        {
+            "product": "Xăng RON 95-III",
+            "price_vnd": 21170,
+            "change": ""
+        },
+        {
+            "product": "Xăng E5 RON 92-II",
+            "price_vnd": 19610,
+            "change": ""
+        },
+        {
+            "product": "Dầu DO 0,05S-II",
+            "price_vnd": 17680,
+            "change": ""
+        },
+        {
+            "product": "Dầu KO",
+            "price_vnd": 16260,
+            "change": ""
+        },
+        {
+            "product": "Dầu FO 3%S",
+            "price_vnd": 0,
+            "change": ""
+        },
+        {
+            "product": "Dầu FO 3,5%S",
+            "price_vnd": 0,
+            "change": ""
+        },
+        {
+            "product": "Xăng RON 95-IV",
+            "price_vnd": 21370,
+            "change": ""
+        },
+        {
+            "product": "Dầu DO 0,005S-IV",
+            "price_vnd": 17730,
+            "change": ""
+        }
+    ]
+}

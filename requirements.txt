@@ -1,0 +1,5 @@
+playwright
+pandas
+jupyterlab
+requests
+matplotlib

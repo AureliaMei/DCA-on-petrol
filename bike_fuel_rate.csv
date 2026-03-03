@@ -1,24 +1,24 @@
-Hãng xe,Dòng xe,Tiêu thụ (L/100km),Xăng khuyến nghị (Tỷ số nén),Dung tích bình xăng (Lít)
-Honda,Vision 2026,1.83,RON 95 (10:1),4.8
-Honda,Lead 125 (2026),2.1,RON 95 (11.5:1),6.0
-Yamaha,Grande 125 Hybrid,1.67,RON 95 (11:1),4.0
-Honda,Air Blade 125/160,2.20,RON 95 (12:1),4.4
-Yamaha,Janus 125 Hybrid,1.88,RON 95 (9.5:1),4.2
-Yamaha,Latte 125,1.8,RON 95 (11:1),5.5
-Honda,SH Mode 125,2.14,RON 95 (11.5:1),5.6
-Honda,SH 125i/160i,2.33,RON 95 (11:1),7.0
-Honda,Wave Alpha 110,1.72,RON 92 (9:1),3.7
-Yamaha,Sirius FI,1.65,RON 92 (9.3:1),4.0
-Honda,Wave RSX FI,1.56,RON 92 (9.3:1),4.1
-Honda,Future 125 FI,1.54,RON 92 (9.3:1),4.6
-Yamaha,Jupiter Finn,1.64,RON 92 (9.3:1),4.0
-Yamaha,Exciter 155 VVA,2.09,RON 95 (10.5:1),5.4
-Honda,Winner R,2.59,RON 95 (11.3:1),4.5
-Honda,Winner X,1.98,RON 95 (11.3:1),4.5
-Suzuki,Satria 150,2.67,RON 95 (Hiệu suất cao),4.0
-Suzuki,Raider,2.4,RON 95 (Hiệu suất cao),4.0
-Yamaha,PG-1,1.69,RON 92 (9.3:1),5.1
-SYM,Elegant 50,1.44,RON 92 (Dưới 9.5:1),4.0
-SYM,Shark 50,1.96,RON 92 (Trên 92),5.2
-Kymco,Candy Hermosa 50,1.98,RON 92 (Dưới 10:1),5.5
-Kymco,Visar 50,1.36,RON 92 (Dưới 9:1),6.5
+Hãng xe,Dòng xe,Tiêu thụ (L/100km),Xăng khuyến nghị (Tỷ số nén),Dung tích bình xăng (Lít),Tỷ lệ tiêu thụ bình/100km,Loại xe
+Honda,Vision 2026,1.83,RON 95 (10:1),4.8,0.38,Tay ga 
+Honda,Lead 125 (2026),2.1,RON 95 (11.5:1),6.0,0.35,Tay ga 
+Yamaha,Grande 125 Hybrid,1.67,RON 95 (11:1),4.0,0.42,Tay ga 
+Honda,Air Blade 125/160,2.20,RON 95 (12:1),4.4,0.50,Tay ga 
+Yamaha,Janus 125 Hybrid,1.88,RON 95 (9.5:1),4.2,0.45,Tay ga
+Yamaha,Latte 125,1.8,RON 95 (11:1),5.5,0.33,Tay ga 
+Honda,SH Mode 125,2.14,RON 95 (11.5:1),5.6,0.38,Tay ga 
+Honda,SH 125i/160i,2.33,RON 95 (11:1),7.0,0.33,Tay ga 
+Honda,Wave Alpha 110,1.72,RON 92 (9:1),3.7,0.46,Xe số  
+Yamaha,Sirius FI,1.65,RON 92 (9.3:1),4.0,0.41,Xe số  
+Honda,Wave RSX FI,1.56,RON 92 (9.3:1),4.1,0.38,Xe số  
+Honda,Future 125 FI,1.54,RON 92 (9.3:1),4.6,0.34,Xe số 
+Yamaha,Jupiter Finn,1.64,RON 92 (9.3:1),4.0,0.41,Xe số  
+Yamaha,Exciter 155 VVA,2.09,RON 95 (10.5:1),5.4,0.39,Xe thể thao 
+Honda,Winner R,2.59,RON 95 (11.3:1),4.5,0.58,Xe thể thao 
+Honda,Winner X,1.98,RON 95 (11.3:1),4.5,0.44,Xe thể thao 
+Suzuki,Satria 150,2.67,RON 95 (Hiệu suất cao),4.0,0.67,Xe thể thao 
+Suzuki,Raider,2.4,RON 95 (Hiệu suất cao),4.0,0.60,Xe thể thao 
+Yamaha,PG-1,1.69,RON 92 (9.3:1),5.1,0.33,Tay ga 
+SYM,Elegant 50,1.44,RON 92 (Dưới 9.5:1),4.0,0.36,Xe 50cc 
+SYM,Shark 50,1.96,RON 92 (Trên 92),5.2,0.38,Xe 50cc 
+Kymco,Candy Hermosa 50,1.98,RON 92 (Dưới 10:1),5.5,0.36,Xe 50cc 
+Kymco,Visar 50,1.36,RON 92 (Dưới 9:1),6.5,0.2,Xe 50cc 

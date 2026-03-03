@@ -8,7 +8,7 @@ def simulate_fuel_purchases():
     # Đường dẫn file
     csv_path = "/Users/my/DCA-on-filling-your-motorbike/bike_fuel_rate.csv"
     json_prices_path = "pvoil_prices.json"
-    output_path = "fuel_purchase_history.json"
+    output_path = "01.fuel_purchase_history.json"
 
     # 1. Đọc dữ liệu xe từ CSV
     if not os.path.exists(csv_path):
